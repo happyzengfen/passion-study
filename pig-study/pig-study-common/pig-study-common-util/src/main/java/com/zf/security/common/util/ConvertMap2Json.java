@@ -17,7 +17,7 @@ public class ConvertMap2Json {
     private static final String QUOTE = "\"";
 
     /**
-     * 将Map转成一个json对象,即像大括号的东西 e.g. { "eventName": "name" }
+     * 将Map转成一个json对象,即像大括号的东西 e.g. { "eventName": "name" }11
      *
      * @param body
      * @param tabCount
