@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pig-study-api" />
+        <module name="pig-study-common-util" />
+        <module name="pig-study-gate" />
+        <module name="pig-study-webadmin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pig-study" target="1.5" />
+      <module name="pig-study-api" target="1.5" />
+      <module name="pig-study-common" target="1.5" />
+      <module name="pig-study-common-util" target="1.5" />
+      <module name="pig-study-gate" target="1.5" />
+      <module name="pig-study-webadmin" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
