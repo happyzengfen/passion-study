@@ -7,7 +7,7 @@ import java.util.Set;
 /**
  * map转换json工具类
  *
- * @author john
+ * @author zengfen
  * @version 1.0
  * @date 2017-11-24
  * @time 22:47
